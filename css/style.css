@@ -1,0 +1,20 @@
+body {
+	
+}
+h1, h2, h3, h4, h5, h6{
+	font-family: 'Ubuntu', sans-serif;
+}
+.form-table{
+	width:48%;
+	float:left;
+	clear:none;
+	border:1px solid #dedede;
+	background:#f7f7f7;
+	margin:5px;
+	font-family: 'Droid Sans', sans-serif;
+	font-size: 12px;
+}
+.submit{
+	float:left;
+	width:100%;
+}
